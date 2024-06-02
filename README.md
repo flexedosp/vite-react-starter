@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-# This file has been modified by Flexedosp
+## This file has been modified by Flexedosp
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. Also, this template is has been added tailwindcss, daisyui, and react-icons.
 
@@ -30,5 +30,5 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-Important!!!
+##Important!!!
 Don't forget to use 'npm install' first before you want to use it.
